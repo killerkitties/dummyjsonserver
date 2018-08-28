@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Judul 1"
+    },
+    {
+      "id": 2,
+      "title": "Judul 2"
+    },
+    {
+      "id": 3,
+      "title": "Judul 3"
+    }
+    ,
+    {
+      "id": 4,
+      "title": "Judul 4"
+    }
+    ,
+    {
+      "id": 5,
+      "title": "Judul 5"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Aduh",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Gelap",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "killerkitties"
+  }
+}
